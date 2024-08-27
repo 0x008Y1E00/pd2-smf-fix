@@ -1,6 +1,7 @@
 # [PAYDAY 2] Suppressor Muzzle Flash Fix
 
 The mod removes muzzle flash for weapon with a suppressor.
+
 The mod is written in the Lua scripting language. Not conflicting with other mods.
 
 **Installation :**
