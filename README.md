@@ -1,6 +1,6 @@
 # [PAYDAY 2] Suppressor Muzzle Flash Fix
 
-<img alt="preview" src="[https://github.com/0x008Y1E00/pd2-smf-fix/blob/main/img_preview.jpg]">
+<img alt="preview" src="https://github.com/0x008Y1E00/pd2-smf-fix/blob/main/img_preview.jpg">
 
 The mod removes muzzle flash for weapon with a suppressor.
 
