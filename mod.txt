@@ -1,15 +1,15 @@
 {
-	"name": "Suppressor Muzzle Flash Fix",
-	"description": "The mod removes muzzle flash for weapon with a suppressor",
-	"contact": "https://github.com/0x008Y1E00/pd2-smf-fix",
-	"author": "0x008Y1E00",
-	"version": "1.0",
-	"blt_version": 2,
-	"priority": 1,
-	"hooks": [
-		{
-			"hook_id": "lib/units/weapons/raycastweaponbase",
-			"script_path": "lua/raycastweaponbase.luac"
-		}
-	]
+    "name": "Silencer Muzzle Flash Fix",
+    "description": "The mod removes muzzle flash for silenced weapons",
+    "contact": "https://modworkshop.net/mod/48982 OR https://github.com/0x008Y1E00/pd2-smf-fix",
+    "author": "0x008Y1E00",
+    "version": "1.0",
+    "blt_version": 2,
+    "priority": 1,
+    "hooks": [
+        {
+            "hook_id": "lib/units/weapons/raycastweaponbase",
+            "script_path": "lua/raycastweaponbase.luac"
+        }
+    ]
 }
